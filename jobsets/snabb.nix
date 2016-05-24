@@ -40,6 +40,8 @@ rec {
       ubuntu1604x86_64
       # https://en.opensuse.org/Lifetime
       opensuse132x86_64
+      # https://wiki.centos.org/Download
+      centos71x86_64
       # See https://github.com/snabbco/snabb/pull/899
       # centos65x86_64
     ]);
