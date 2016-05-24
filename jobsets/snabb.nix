@@ -38,8 +38,8 @@ rec {
       ubuntu1404x86_64
       ubuntu1510x86_64
       ubuntu1604x86_64
-      opensuse110x86_64
-      opensuse111x86_64
+      # https://en.opensuse.org/Lifetime
+      opensuse132x86_64
       # See https://github.com/snabbco/snabb/pull/899
       # centos65x86_64
     ]);
